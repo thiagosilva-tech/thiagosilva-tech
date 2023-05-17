@@ -1,6 +1,6 @@
 ### Oi!!! Eu sou o Thiago Silva
 ##
-- 🌱 Estudando Java
+- 🌱 Estudante
 - 😄 Pronouns: ele/dele
 ##
 <div style="display: inline_block"><br>  
