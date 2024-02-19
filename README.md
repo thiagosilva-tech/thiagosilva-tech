@@ -27,7 +27,7 @@ Meu nome √© Thiago, sou estudante de desenvolvimento web full-stack. Minha paix√
 ##
 
 <div>
-   ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva-tech&layout=compact&theme=dracula)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva-tech&layout=compact&theme=dracula)
 </div>
 
 <div>
