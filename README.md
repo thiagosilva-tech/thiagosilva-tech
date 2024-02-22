@@ -3,10 +3,14 @@
 Meu nome é **Thiago Silva**, sou estudante de desenvolvimento web full-stack na Trybe. 
 
 Sobre mim:
-  - Minha paixão pelo desenvolvimento de software surgiu de forma instantânea e intensa, iniciando minha jornada com um curso intensivo na Alura e aperfeiçoando minhas habilidades na Trybe, onde concluí mais de 20 projetos utilizando JavaScript,     - TypeScript, HTML, CSS, React e MySQL. 
-  - Tenho experiência prática com JavaScript e TypeScript, familiaridade com bancos de dados MySQL, conhecimento em frameworks como React e habilidade para trabalhar em equipe, competência desenvolvida em experiências anteriores como comprador. 
-  - Estou confortável com o uso de ferramentas de controle de versão, como o Git.
-  - Meu objetivo futuro é contribuir para projetos com impacto social significativo, usando a tecnologia para melhorar a vida das pessoas.
+   🎓 Minha paixão pelo desenvolvimento de software surgiu de forma instantânea e intensa, iniciando minha jornada com um curso intensivo na Alura e aperfeiçoando minhas habilidades na Trybe, onde concluí mais de 20 projetos utilizando JavaScript, TypeScript, HTML, CSS, React e MySQL.
+
+  💻 Tenho experiência prática com JavaScript e TypeScript, familiaridade com bancos de dados MySQL, conhecimento em frameworks como React e habilidade para trabalhar em equipe, competência desenvolvida em experiências anteriores como comprador.
+
+  🔧 Estou confortável com o uso de ferramentas de controle de versão, como o Git.
+
+  🌍 Meu objetivo futuro é contribuir para projetos com impacto social significativo, usando a tecnologia para melhorar a vida das pessoas.
+  
 ##
 
 <div style="display: inline_block"><br>  
