@@ -1,6 +1,6 @@
-# Olá! 👋
+# Olá! Eu sou o Thiago👋
 
-Meu nome é **Thiago Silva**, sou estudante de desenvolvimento web full-stack na Trybe. 
+Sou desenvolvedir back-end na MobFácil e estudo desenvolvimento Web full-stack na Trybe. 
 
 Sobre mim:
 
